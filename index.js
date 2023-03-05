@@ -4,7 +4,7 @@ function introduction(name) {
 function introductionWithLanguage(name, language) {
     return `Hi, my name is ${name} and I am learning to program in ${language}.`
 }
-function intintroductionWithLanguageOptional(name, language = "JavaScript") {
+function intintroductionWithLanguageOptional(name, language = "English") {
     return `Hi, my name is ${name} and I am learning to program in ${language}.`
 }
    
